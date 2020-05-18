@@ -1,2 +1,2 @@
-# actitime
-Исходники тестового задания для Actitime, сборка Gulp + SASS.
+# features
+Исходники тестового задания "Features", сборка Gulp + SASS.
